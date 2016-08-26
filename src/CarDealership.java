@@ -19,7 +19,7 @@ public class CarDealership {
 			else
 				System.out.print("NEW: ");
 			
-			System.out.print(c.toString());
+			System.out.println(c.toString());
 		}
 	}
 }
